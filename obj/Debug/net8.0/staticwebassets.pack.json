@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\obj\\Debug\\net8.0\\compressed\\jakn1874j6.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
+      "PackagePath": "staticwebassets\\MyBlazorApp.styles.css"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\Godfather.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Godfather.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\Highlander.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Highlander.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\Highlander2.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Highlander2.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\LastOfTheMohicans.png",
+      "PackagePath": "staticwebassets\\images\\movies\\LastOfTheMohicans.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\PoliceAcademy6.png",
+      "PackagePath": "staticwebassets\\images\\movies\\PoliceAcademy6.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\RearWindow.png",
+      "PackagePath": "staticwebassets\\images\\movies\\RearWindow.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\RoadHouse.png",
+      "PackagePath": "staticwebassets\\images\\movies\\RoadHouse.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\Shawshank.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Shawshank.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\StarTreck4.png",
+      "PackagePath": "staticwebassets\\images\\movies\\StarTreck4.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\images\\movies\\Superman4.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Superman4.png"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "c:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\MyBlazorApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyBlazorApp.props",
+      "PackagePath": "build\\MyBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\MyBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyBlazorApp.props",
+      "PackagePath": "buildTransitive\\MyBlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
